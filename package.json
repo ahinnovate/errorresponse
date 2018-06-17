@@ -1,0 +1,23 @@
+{
+  "name": "@ahinnovate/errorresponse",
+  "version": "0.0.1",
+  "description": "error response",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahinnovate/errorresponse.git"
+  },
+  "keywords": [
+    "error",
+    "response"
+  ],
+  "author": "ahinnovate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahinnovate/errorresponse/issues"
+  },
+  "homepage": "https://github.com/ahinnovate/errorresponse#readme"
+}
